@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as o,a as e}from"./app.cf012660.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/index.md"}'),s={name:"notes/index.md"},a=e("p",null,[e("strong",null,"\u7B14\u8BB0\u5806")],-1),r=[a];function c(d,_,i,l,p,m){return n(),o("div",null,r)}const x=t(s,[["render",c]]);export{u as __pageData,x as default};
