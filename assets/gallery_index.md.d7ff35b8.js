@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as n,a as e}from"./app.cf012660.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gallery/index.md"}'),o={name:"gallery/index.md"},s=e("p",null,[e("strong",null,"\u56FE\u7247\u5806")],-1),r=[s];function c(l,d,_,i,p,m){return a(),n("div",null,r)}const x=t(o,[["render",c]]);export{u as __pageData,x as default};
